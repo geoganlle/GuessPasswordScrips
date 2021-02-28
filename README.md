@@ -1,6 +1,6 @@
 # GuessPasswordScrips
 
-## auth : geoganlle :smile
+## auth : geoganlle :smile:
 
 ### email: geoganlle@163.com
 
